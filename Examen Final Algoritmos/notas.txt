@@ -1,0 +1,6 @@
+Nombre del estudiante: hola
+Notas: 3.0, 4.0, 5.0, 6.0
+Nombre del estudiante: josa
+Notas: 98.0, 24.0, 5.0, 6.0
+Promedio: 33.25
+
